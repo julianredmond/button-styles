@@ -11,3 +11,87 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+.btn {
+  color: #fff;
+  background-color: #333;
+  text-decoration: none;
+  font-size: 1.125rem;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  border-width: 3px;
+
+}
+
+.btn:hover {
+  background-color: #000;
+}
+
+.btn-subtle {
+  color: #fff;
+  background-color: #ccc;
+  text-decoration: none;
+  font-size: 1.125rem;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  border-width: 3px;
+}
+
+.btn-subtle:hover {
+  background-color: #666;
+}
+
+.btn-ghost {
+  color: #000;
+  background-color: #fff;
+  border: 3px solid black;
+  text-decoration: none;
+  font-size: 1.125rem;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+}
+
+.btn-ghost:hover {
+  background-color: #666;
+  color: #fff;
+  border: none;
+}
+
+.btn-warning {
+  color: #fff;
+  background-color: #f33;
+  text-decoration: none;
+  font-size: 1.125rem;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  border-width: 3px;
+}
+
+.btn-small {
+}
+
+.btn-subtle-small {
+
+}
+
+.btn-ghost-small {
+
+}
+
+.btn-warning-small {
+
+}
+.btn-big {
+}
+
+.btn-subtle-big {
+
+}
+
+.btn-ghost-big {
+
+}
+
+.btn-warning-big {
+
+}
