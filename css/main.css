@@ -174,8 +174,17 @@ div {
   color: #fff;
   border: none;
 }
-}
 
 .btn-warning-big {
+  color: #fff;
+  background-color: #f33;
+  text-decoration: none;
+  font-size: 1.5rem;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  border-width: 3px;
+}
 
+.btn-warning-big:hover {
+  background-color: #933;
 }
